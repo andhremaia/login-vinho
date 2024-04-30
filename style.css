@@ -20,15 +20,18 @@ form{
 }
 
 #botao{
-    background-color: rgb(138, 131, 131);
+    background-color:  rgb(87, 3, 6);
     border: none;
+    color: white;
 }
 
 #botao:hover{
-    background-color: rgb(112, 4, 8);
+    background-color:rgb(112, 4, 8);
     color: white;
-    
+   
 }
+
+
 
 a{
     text-decoration: none;
