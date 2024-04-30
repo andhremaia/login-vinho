@@ -45,9 +45,10 @@ input{
     width: 50vw;
 }
 
-
-
 @media screen and (max-width: 329 ){
+    body{
+        background-color: blue;
+    }
     form{
         width: 50%;
     }
