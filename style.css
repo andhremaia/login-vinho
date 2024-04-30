@@ -23,6 +23,8 @@ form{
     background-color:  rgb(87, 3, 6);
     border: none;
     color: white;
+    height: 40px;
+    cursor: pointer;
 }
 
 #botao:hover{
@@ -50,7 +52,7 @@ input{
         background-color: blue;
     }
     form{
-        width: 50%;
+        width: 100%;
     }
 }
     
